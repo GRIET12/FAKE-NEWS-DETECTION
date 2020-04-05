@@ -1,5 +1,7 @@
 # FAKE-NEWS-DETECTION
+
 Abstract:
+
 Fake news is a type of yellow journalism. Now a days it has become hard to rely on online
 news sites and news content, because we are unable to find out if we are reading the fake
 news or real news. Social media and news outlets publish fake news to increase readership.
